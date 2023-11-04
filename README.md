@@ -1,4 +1,4 @@
-# micro-investing-app
+# Github Tutorial hackathon
 This is for a hackutd  presentation
 
 team members: Nadibs Atiquee, Sifat Islam
@@ -8,5 +8,5 @@ Elements to include :
 - how to clone 
 - how to compile
 - how to run
-- other stuff
+- other stuffgit 
 
